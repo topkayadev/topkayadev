@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @topkayadev
+- 🌱 I’m currently learning web development technologies
+- 🎓 I’m still student of industrial engineering at Karabuk University
